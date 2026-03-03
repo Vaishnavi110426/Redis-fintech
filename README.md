@@ -1,4 +1,4 @@
-# Redis Fintech - User Management (MySQL vs Redis)
+# Redis Vs MySQL - User Management (MySQL vs Redis)
 
 A full-stack demo project to compare **direct MySQL queries** with **Redis-cached responses** using a FastAPI backend and React frontend.
 
